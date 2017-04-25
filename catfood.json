@@ -1,0 +1,77 @@
+{
+	"cat_brands": [
+		{
+			"name": "purrina",
+			"breeds": [
+				"siamese", "bengal", "showshoe", "munchkin"
+			],
+			"types": [
+				{
+					"type": "kitten",
+					"volumes": [
+						{
+							"volume": "20oz",
+							"price": "19.99"
+						},
+						{
+							"volume": "32oz",
+							"price": "26.99"
+						},
+						{
+							"volume": "64oz",
+							"price": "34.99"
+						}
+					]
+				},
+				{
+					"type": "elite",
+					"volumes": [
+						{
+							"volume": "20oz",
+							"price": "24.99"
+						},
+						{
+							"volume": "40oz",
+							"price": "47.99"
+						}
+					]
+				}
+			]
+
+		},
+		{
+			"name": "meow_meal",
+			"breeds": [
+				"manx", "egyptian_mau", "himalayan", "rag_doll"
+			],
+			"types": [
+				{
+					"type": "kitten",
+					"volumes": [
+						{
+							"volume": "24oz",
+							"price": "19.99"
+						},
+						{
+							"volume": "48oz",
+							"price": "34.99"
+						}
+					]
+				},
+				{
+					"type": "adult",
+					"volumes": [
+						{
+							"volume": "28oz",
+							"price": "22.99"
+						},
+						{
+							"volume": "56oz",
+							"price": "40.99"
+						}
+					]
+				}
+			]
+		}
+	]
+}
